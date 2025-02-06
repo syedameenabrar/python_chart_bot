@@ -1,0 +1,93 @@
+{
+    "intents": [
+      {
+        "patterns": ["hi", "hello", "hey", "good morning", "good evening"],
+        "responses": ["Hello!", "Hi there!", "Hey! How can I assist you?"]
+      },
+      {
+        "patterns": ["how are you", "how are you doing"],
+        "responses": ["I'm just a bot, but I'm doing great! How about you?", "I'm good! How can I help you?"]
+      },
+      {
+        "patterns": ["bye", "goodbye", "see you later"],
+        "responses": ["Goodbye! Have a great day!", "See you later!", "Bye! Come back anytime."]
+      },
+      {
+        "patterns": ["what is your name", "who are you"],
+        "responses": ["I am your chatbot assistant!", "You can call me ChatBot."]
+      },
+      {
+        "patterns": ["tell me a joke", "make me laugh"],
+        "responses": ["Why did the scarecrow win an award? Because he was outstanding in his field!", "Why don’t skeletons fight each other? They don’t have the guts!"]
+      },
+      {
+        "patterns": ["what is vehicle scrapping", "explain vehicle scrapping", "what does vehicle scrapping mean"],
+        "responses": ["Vehicle scrapping is the process of dismantling old or unfit vehicles to recycle their parts and materials."]
+      },
+      {
+        "patterns": ["when should I scrap my vehicle", "how to know if my vehicle needs scrapping", "signs that my vehicle needs scrapping"],
+        "responses": ["You should scrap your vehicle if it is over 15 years old (for petrol) or 10 years old (for diesel), has failed fitness tests, or is no longer roadworthy."]
+      },
+      {
+        "patterns": ["what are the benefits of vehicle scrapping", "why should I scrap my vehicle"],
+        "responses": ["Scrapping an old vehicle helps in reducing pollution, saves fuel, and provides discounts on new vehicle purchases."]
+      },
+      {
+        "patterns": ["is vehicle scrapping mandatory", "do I have to scrap my old vehicle", "government rules for vehicle scrapping"],
+        "responses": ["Yes, as per government regulations, unfit vehicles must be scrapped after failing a fitness test to reduce environmental impact."]
+      },
+      {
+        "patterns": ["how to scrap my car", "vehicle scrapping process", "steps to scrap my vehicle"],
+        "responses": ["To scrap your vehicle, visit a registered scrapping center, submit your vehicle for evaluation, get a scrapping certificate, and deregister the vehicle with RTO."]
+      },
+      {
+        "patterns": ["where can I scrap my car", "scrap centers near me", "authorized vehicle scrapping centers"],
+        "responses": ["You can scrap your vehicle at authorized scrapping centers. Check with your RTO or visit the Ministry of Road Transport website for a list of centers."]
+      },
+      {
+        "patterns": ["how much money will I get for scrapping my car", "scrap value of my vehicle", "what is the price for scrapping a car"],
+        "responses": ["The price depends on the weight, material, and condition of your vehicle. Typically, you can get ₹10,000 to ₹50,000 for scrapping an old car."]
+      },
+      {
+        "patterns": ["do I need documents for vehicle scrapping", "what documents are required for scrapping my vehicle"],
+        "responses": ["Yes, you need the RC (Registration Certificate), ID proof, address proof, and a NOC from the RTO for scrapping your vehicle."]
+      },
+      {
+        "patterns": ["what is a vehicle scrapping certificate", "scrappage certificate", "benefits of scrapping certificate"],
+        "responses": ["A vehicle scrapping certificate is proof that your old vehicle has been dismantled legally. It can help you get discounts on a new vehicle."]
+      },
+      {
+        "patterns": ["can I scrap my vehicle without an RC", "vehicle scrapping without registration certificate"],
+        "responses": ["No, an RC is required for scrapping. If lost, you need to get a duplicate RC from the RTO before proceeding."]
+      },
+      {
+        "patterns": ["do I get a tax rebate for scrapping my car", "scrapping my vehicle tax benefit", "tax benefits on vehicle scrapping"],
+        "responses": ["Yes, some states offer tax rebates or discounts on new vehicle purchases when you scrap your old vehicle with a valid scrapping certificate."]
+      },
+      {
+        "patterns": ["what happens to a scrapped vehicle", "how is a scrapped vehicle recycled", "what is done with scrapped vehicles"],
+        "responses": ["Scrapped vehicles are dismantled, and reusable parts are separated. The remaining metal is recycled to manufacture new vehicles and other products."]
+      },
+      {
+        "patterns": ["is there a government vehicle scrapping policy", "what is the vehicle scrapping policy in India"],
+        "responses": ["Yes, the Indian government introduced the Vehicle Scrappage Policy to phase out old, unfit vehicles and promote environmentally friendly transportation."]
+      },
+      {
+        "patterns": ["how do I deregister my scrapped vehicle", "do I need to inform the RTO after scrapping my vehicle"],
+        "responses": ["Yes, after scrapping your vehicle, you need to submit the scrappage certificate to the RTO for deregistration to avoid legal issues."]
+      },
+      {
+        "patterns": ["what is the penalty for not scrapping an old vehicle", "fines for keeping old vehicles"],
+        "responses": ["Keeping an unfit vehicle can lead to heavy fines and penalties, including impounding of the vehicle by authorities."]
+      },
+      {
+        "patterns": ["can I scrap a commercial vehicle", "scrapping rules for commercial vehicles"],
+        "responses": ["Yes, commercial vehicles over 15 years old must be scrapped if they fail the fitness test and do not meet emission standards."]
+      },
+      {
+        "patterns": ["can I scrap my two-wheeler", "bike scrapping process"],
+        "responses": ["Yes, two-wheelers can be scrapped at authorized centers following the same process as cars."]
+      }
+    ]
+  }
+  
